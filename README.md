@@ -7,8 +7,8 @@
 ## Содержание
 
 - [x] [Вступление](#1)
-- [x] [Идея](docs/IDEA.md)
-- [ ] [Концепции, термины](docs/OF_THE_CONCEPT.md)
+- [x] [Идея](docs/IDEA.md#2.1)
+- [ ] [Концепции, термины](docs/OF_THE_CONCEPT.md#2.2)
     - [x] [Концепции](docs/OF_THE_CONCEPT.md#2.2)
         - [x] [Виртуальные машины](docs/OF_THE_CONCEPT.md#2.2.1)
         - [x] [Образ контейнера Docker](docs/OF_THE_CONCEPT.md#2.2.2)
