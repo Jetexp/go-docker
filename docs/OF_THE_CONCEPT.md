@@ -71,8 +71,8 @@
 
 ### <a name="2.3.6"></a> Docker Compose
 
-<a name="2.3.7"></a> ### Docker Swarm
+### <a name="2.3.7"></a> Docker Swarm
 
-<a name="2.3.8"></a> ### Сервисы Docker
+### <a name="2.3.8"></a> Сервисы Docker
 
-<a name="2.3.9"></a> ### Kubernetes
+### <a name="2.3.9"></a> Kubernetes
