@@ -26,6 +26,12 @@
         - [ ] [Сервисы Docker](docs/OF_THE_CONCEPT.md#2.3.8)
         - [ ] [Kubernetes](docs/OF_THE_CONCEPT.md#2.3.9)
 - [ ] [Dockerfile](docs/DOCKERFILE.md)
+- [ ] [Общие сведения о командах Docker](docs/COMMANDS.md)
+    - [ ] [Команды для управления контейнерами](docs/COMMANDS.md#1)
+    - [ ] [Команды для управления образами](docs/COMMANDS.md#2)
+    - [ ] [Разные команды](docs/COMMANDS.md#3)
+- [ ] [Hабота с данными](docs/VOLUMES.md)
+- [ ] [Уменьшение размеров образов и кеширование](docs/SIZE_AND_CACHE.md)
 
 ### <a name="1"></a>  Вступление
 
